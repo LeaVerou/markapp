@@ -132,6 +132,11 @@ article:target {
 			mix-blend-mode: multiply;
 		}
 
+	.gitub-repo ~ iframe {
+		mix-blend-mode: luminosity;
+		opacity: .95;
+	}
+
 #libraries footer {
 	text-align: center;
 }
