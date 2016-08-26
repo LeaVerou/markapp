@@ -44,7 +44,14 @@
 			"url": "https://shwr.me",
 			"image": "https://avatars2.githubusercontent.com/u/2495549?v=3&s=200",
 			"description": "HTML presentation engine",
-			"github": "shower/shower"
+			"github": "pepelsbey/shower"
+		},
+		{
+			"name": "Sorttable",
+			"author": "stuartlangridge",
+			"url": "http://www.kryogenix.org/code/browser/sorttable",
+			"description": "Make your tables sortable",
+			"github": "stuartlangridge/sorttable"
 		}
 	]
 }
