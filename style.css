@@ -90,11 +90,11 @@ article:target {
 	}
 
 	article img {
-		width: 8em;
-		max-height: 8em;
+		width: 8.5em;
+		height: 8.5em;
 		object-fit: cover;
 		float: right;
-		margin-right: .5em;
+		margin-left: .5em;
 		border-radius: .3em;
 	}
 

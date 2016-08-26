@@ -52,6 +52,14 @@
 			"url": "http://www.kryogenix.org/code/browser/sorttable",
 			"description": "Make your tables sortable",
 			"github": "stuartlangridge/sorttable"
+		},
+		{
+			"name": "Stretchy",
+			"author": "leaverou",
+			"url": "https://leaverou.github.io/stretchy",
+			"image": "http://lea.verou.me/wp-content/uploads/2015/07/Screen-Shot-2015-07-25-at-18.40.13--300x204.png",
+			"description": "Form element autosizing, the way it should be.",
+			"github": "leaverou/stretchy"
 		}
 	]
 }
