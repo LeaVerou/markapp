@@ -81,6 +81,10 @@ article {
 	border-radius: .4em;
 }
 
+article:target {
+	background: hsl(30, 100%, 85%);
+}
+
 	article:hover {
 		background: hsl(335, 70%, 82%);
 	}
@@ -116,7 +120,7 @@ article {
 
 	.gitub-repo {
 		display: inline-block;
-		vertical-align: .3em;
+		vertical-align: .5em;
 		margin-right: .3em;
 		background: url(https://github.com/favicon.ico) no-repeat left / contain;
 		padding-left: 2em;
