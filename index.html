@@ -22,15 +22,24 @@
 	The purpose of this site is to collect and promote JS libraries that are usable without writing any JS.</p>
 </section>
 
-<section>
+<section id="libraries">
 	<h1>The libraries</h1>
 
 	<template>
 		{{#library}}
+		<a href="{{url}}">
 		<article>
-			<h1><a href="{{url}}">{{name}}</a></h1>
+			<img src="{{image}}" alt="">
+			<h1>{{name}}
+				<div class="author">
+					<a href="http://github.com/{{author}}">{{author}}</a>
+					and
+					<a href="https://github.com/{{github}}/graphs/contributors">contributors</a>
+				</div>
+			</h1>
 			<p>{{description}}</p>
 
+			<a href="http://github.com/{{github}}" class="gitub-repo">{{github}}</a>
 			<a class="github-button" href="https://github.com/{{github}}"
 				data-icon="octicon-star" data-style="mega"
 				data-count-href="/leaverou/awesomplete/stargazers"
@@ -44,9 +53,19 @@
 				data-count-aria-label="# forks on GitHub"
 				aria-label="Fork {{github}} on GitHub">Fork</a>
 		</article>
+		</a>
 		{{/library}}
 	</template>
+	<footer>
+		<p><a href="https://github.com/LeaVerou/markapp/edit/master/data.json">Help expand this list!</a></p>
+	</footer>
 </section>
+
+<footer>
+	Made with &hearts; by <a href="http://lea.verou.me">Lea Verou</a>
+	&bull; <a href="https://github.com/LeaVerou/markapp">This site is open source</a>
+	&bull; <a href="https://www.flickr.com/photos/flikr/2642252679">Laser cat photo by Kelbv</a>
+</footer>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/blissfuljs/1.0.2/bliss.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/2.2.1/mustache.min.js"></script>

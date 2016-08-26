@@ -36,7 +36,7 @@ header {
 	}
 
 		header > h1 > span {
-			color: hsl(160, 60%, 65%);
+			color: hsl(160, 70%, 70%);
 		}
 
 	header > p {
@@ -47,7 +47,7 @@ header {
 
 body > section {
 	max-width: 50em;
-	margin: 1em;
+	padding: 1em;
 	margin: auto;
 }
 
@@ -56,20 +56,77 @@ body > section {
 		color: rgba(0,0,0,.5)
 	}
 
+body > footer {
+	background: hsl(217, 10%, 30%);
+	padding: 2em calc(50% - 25em) 1em;
+	margin-top: 2em;
+	color: white;
+	--clip-path: polygon(0% 1em, 100% 0, 100% 100%, 0% 100%);
+}
+
 #intro > p:first-of-type {
 	font-weight: bold;
 	font-size: 150%;
 }
 
+#libraries > a {
+	text-decoration: none;
+}
+
 article {
-	background: hsl(200, 50%, 90%);
+	background: hsl(217, 47%, 90%);
 	padding: 1em;
 	margin-bottom: .5em;
 	border-radius: .4em;
 }
+
+	article:hover {
+		background: hsl(335, 70%, 82%);
+	}
+
+	article img {
+		width: 8em;
+		max-height: 8em;
+		object-fit: cover;
+		float: right;
+		margin-right: .5em;
+		border-radius: .3em;
+	}
+
+	article img[src=""] {
+		display: none;
+	}
 
 	article h1 {
 		font-weight: 200;
 		font-size: 200%;
 		margin: 0;
 	}
+
+		article h1 .author {
+			display: inline;
+			font-size: 50%;
+			font-style: italic;
+		}
+
+			article h1 .author::before {
+				content: " by ";
+			}
+
+	.gitub-repo {
+		display: inline-block;
+		vertical-align: .3em;
+		margin-right: .3em;
+		background: url(https://github.com/favicon.ico) no-repeat left / contain;
+		padding-left: 2em;
+		font-weight: bold;
+	}
+
+		.gitub-repo:hover, .gitub-repo:focus {
+			color: hsl(4, 81%, 56%);
+			mix-blend-mode: multiply;
+		}
+
+#libraries footer {
+	text-align: center;
+}

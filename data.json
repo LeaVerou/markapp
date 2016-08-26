@@ -2,6 +2,7 @@
 	"library": [
 		{
 			"name": "PrismJS",
+			"author": "leaverou",
 			"url": "http://prismjs.com",
 			"image": "https://avatars0.githubusercontent.com/u/11140484",
 			"description": "Beautiful, standards-compliant syntax highlighter with support for over 100 languages.",
@@ -9,9 +10,33 @@
 		},
 		{
 			"name": "Awesomplete",
+			"author": "leaverou",
 			"url": "http://leaverou.github.io/awesomplete",
 			"description": "Simple, flexible autocomplete widget",
 			"github": "leaverou/awesomplete"
+		},
+		{
+			"name": "Flickity",
+			"author": "metafizzy",
+			"url": "http://flickity.metafizzy.co",
+			"image": "https://cdn.css-tricks.com/wp-content/uploads/2015/03/flickity.gif",
+			"description": "Touch, responsive, flickable carousels",
+			"github": "metafizzy/flickity"
+		},
+		{
+			"name": "Packery",
+			"author": "metafizzy",
+			"url": "http://packery.metafizzy.co",
+			"image": "http://i.imgur.com/q5eFssu.jpg",
+			"description": "Gapless, draggable grid layouts",
+			"github": "metafizzy/packery"
+		},
+		{
+			"name": "Parsley",
+			"author": "guillaumepotier",
+			"url": "http://parsleyjs.org",
+			"description": "Validate your forms, frontend, without writing a single line of javascript",
+			"github": "guillaumepotier/Parsley.js"
 		}
 	]
 }
