@@ -1,14 +1,6 @@
 {
 	"library": [
 		{
-			"name": "PrismJS",
-			"author": "leaverou",
-			"url": "http://prismjs.com",
-			"image": "https://avatars0.githubusercontent.com/u/11140484",
-			"description": "Beautiful, standards-compliant syntax highlighter with support for over 100 languages.",
-			"github": "prismjs/prism"
-		},
-		{
 			"name": "Awesomplete",
 			"author": "leaverou",
 			"url": "http://leaverou.github.io/awesomplete",
@@ -37,6 +29,22 @@
 			"url": "http://parsleyjs.org",
 			"description": "Validate your forms, frontend, without writing a single line of javascript",
 			"github": "guillaumepotier/Parsley.js"
+		},
+		{
+			"name": "PrismJS",
+			"author": "leaverou",
+			"url": "http://prismjs.com",
+			"image": "https://avatars0.githubusercontent.com/u/11140484",
+			"description": "Beautiful, standards-compliant syntax highlighter with support for over 100 languages.",
+			"github": "prismjs/prism"
+		},
+		{
+			"name": "Shower",
+			"author": "pepelsbey",
+			"url": "https://shwr.me",
+			"image": "https://avatars2.githubusercontent.com/u/2495549?v=3&s=200",
+			"description": "HTML presentation engine",
+			"github": "shower/shower"
 		}
 	]
 }
