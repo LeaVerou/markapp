@@ -60,6 +60,15 @@
 			"image": "http://lea.verou.me/wp-content/uploads/2015/07/Screen-Shot-2015-07-25-at-18.40.13--300x204.png",
 			"description": "Form element autosizing, the way it should be.",
 			"github": "leaverou/stretchy"
+		},
+		{
+			"name": "BunnyJS",
+			"author": "mevrael",
+			"url": "https://bunnyjs.com",
+			"image": "https://bunnyjs.com/img/bunnyjs-logo.png",
+			"description": "Lightweight vanilla JavaScript, ES6 browser library, package of small stand-alone components without dependencies like HTML5 form validation, DataTables and much more",
+			"github": "mevrael/bunny"
 		}
+		
 	]
 }
