@@ -1,6 +1,14 @@
 {
 	"library": [
 		{
+			"name": "AMP",
+			"author": "ampproject",
+			"url": "https://ampproject.org",
+			"image": "https://www.ampproject.org/static/img/logo-blue.svg",
+			"description": "Fast and responsive custom elements as part of a larger spec to build content pages easily.",
+			"github": "ampproject/amphtml"
+		},
+		{
 			"name": "Awesomplete",
 			"author": "leaverou",
 			"url": "http://leaverou.github.io/awesomplete",
