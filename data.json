@@ -60,6 +60,14 @@
 			"image": "http://lea.verou.me/wp-content/uploads/2015/07/Screen-Shot-2015-07-25-at-18.40.13--300x204.png",
 			"description": "Form element autosizing, the way it should be.",
 			"github": "leaverou/stretchy"
+		},
+		{
+			"name": "Gridnav",
+			"author": "Christian Heilmann",
+			"url": "https://github.com/codepo8/gridnav/",
+			"image": "https://github.com/codepo8/gridnav/raw/master/images/grid.gif",
+			"description": "Navigating a list in a 2D manner instead of just forward and backward.",
+			"github": "codepo8/gridnav"
 		}
 	]
 }
