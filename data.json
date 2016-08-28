@@ -1,6 +1,13 @@
 {
 	"library": [
 		{
+			"name": "Adm'in.2",
+			"author": "viki53",
+			"url": "https://dev.comin2.com/adm-in-2/",
+			"description": "Easy to use administration interface, with HTML shortcuts to avoid writing JS",
+			"github": "comin2/adm-in.2"
+		},
+		{
 			"name": "AMP",
 			"author": "ampproject",
 			"url": "https://ampproject.org",
