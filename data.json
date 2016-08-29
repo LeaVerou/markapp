@@ -81,7 +81,7 @@
 			"name": "togglr",
 			"author": "stefanoio",
 			"url": "https://github.com/stefanoio/togglr",
-			"description": "The super lightweight zero dependencies useful utility.",
+			"description": "Add/remove/toggle classes on specific targets on user input (click).",
 			"github": "stefanoio/togglr"
 		}
 	]
