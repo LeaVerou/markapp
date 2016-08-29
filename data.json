@@ -24,6 +24,14 @@
 			"github": "twbs/bootstrap"
 		},
 		{
+			"name": "Dropzone",
+			"author": "enyo",
+			"url": "http://www.dropzonejs.com",
+			"image": "http://www.dropzonejs.com/favicons/favicon-192x192.png",
+			"description": "An open source library that provides drag’n’drop file uploads with image previews.",
+			"github": "enyo/dropzone"
+		},
+		{
 			"name": "Flickity",
 			"author": "metafizzy",
 			"url": "http://flickity.metafizzy.co",
