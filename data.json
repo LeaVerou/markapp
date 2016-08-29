@@ -84,6 +84,14 @@
 			"image": "http://lea.verou.me/wp-content/uploads/2015/07/Screen-Shot-2015-07-25-at-18.40.13--300x204.png",
 			"description": "Form element autosizing, the way it should be.",
 			"github": "leaverou/stretchy"
+		},
+		{
+			"name": "Dropzone",
+			"author": "enyo",
+			"url": "http://www.dropzonejs.com",
+			"image": "http://www.dropzonejs.com/favicons/favicon-192x192.png",
+			"description": "An open source library that provides drag’n’drop file uploads with image previews.",
+			"github": "enyo/dropzone"
 		}
 	]
 }
