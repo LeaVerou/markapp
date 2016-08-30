@@ -1,6 +1,14 @@
 {
 	"library": [
 		{
+			"name": "addel",
+			"author": "legshooter",
+			"url": "https://github.com/legshooter/addel",
+			"image": "https://github.com/legshooter/addel/raw/master/demo.gif",
+			"description": "A jQuery plugin that enables dynamic addition & deletion of HTML elements.",
+			"github": "legshooter/addel"
+		},
+		{
 			"name": "AMP",
 			"author": "ampproject",
 			"url": "https://ampproject.org",
