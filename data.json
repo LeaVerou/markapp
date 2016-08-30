@@ -104,7 +104,7 @@
 		{
 			"name": "tabbed-panels",
 			"author": "Daniel-Hug",
-			"url": "http://daniel-hug.github.io/tabbed-panels/",
+			"url": "https://github.com/Daniel-Hug/tabbed-panels#tabbed-panels-demo",
 			"image": "http://daniel-hug.github.io/tabbed-panels/tabbed-panels-screenshot.png",
 			"description": "A declarative tabbed panels JS module",
 			"github": "Daniel-Hug/tabbed-panels"
