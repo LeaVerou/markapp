@@ -107,6 +107,14 @@
 			"url": "https://github.com/stefanoio/togglr",
 			"description": "Add/remove/toggle classes on specific targets on user input (click).",
 			"github": "stefanoio/togglr"
+		},
+		{
+			"name": "materialize",
+			"author": "materializecss",
+			"url": "http://materializecss.com/",
+			"image": "https://github.com/Dogfalo/materialize/blob/master/images/favicon/apple-touch-icon-152x152.png",
+			"description": "A modern responsive front-end framework based on Material Design",
+			"github": "https://github.com/dogfalo/materialize/"
 		}
 	]
 }
