@@ -107,6 +107,13 @@
 			"url": "https://github.com/stefanoio/togglr",
 			"description": "Add/remove/toggle classes on specific targets on user input (click).",
 			"github": "stefanoio/togglr"
+		},
+		{
+			"name": "eqcss",
+			"author": "Tommy Hodgins & Maxime Euziere",
+			"url": "http://elementqueries.com",
+			"description": "A CSS extension for element queries, scoped styles, & special selectors like $parent and $this",
+			"github": "eqcss/eqcss"
 		}
 	]
 }
