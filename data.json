@@ -107,6 +107,14 @@
 			"url": "https://github.com/stefanoio/togglr",
 			"description": "Add/remove/toggle classes on specific targets on user input (click).",
 			"github": "stefanoio/togglr"
+		},
+		{
+			"name": "Tooltipster",
+			"author": "iamceege",
+			"url": "http://iamceege.github.io/tooltipster/",
+			"description": "jQuery Tooltip plugin",
+			"github": "iamceege/tooltipster",
+			"image": "http://www.unheap.com/wp-content/uploads/tooltipster.png"
 		}
 	]
 }
