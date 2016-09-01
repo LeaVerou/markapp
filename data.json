@@ -72,7 +72,7 @@
 		{
 			"name": "speech-input",
 			"author": "Daniel-Hug",
-			"url": "http://daniel-hug.github.io/speech-input",
+			"url": "https://github.com/Daniel-Hug/speech-input",
 			"description": "Simple speech input for <input> elements — replaces deprecated x-webkit-speech attribute",
 			"github": "Daniel-Hug/speech-input"
 		},
