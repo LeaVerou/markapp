@@ -102,6 +102,14 @@
 			"github": "leaverou/stretchy"
 		},
 		{
+			"name": "tabbed-panels",
+			"author": "Daniel-Hug",
+			"url": "http://daniel-hug.github.io/tabbed-panels/",
+			"image": "http://daniel-hug.github.io/tabbed-panels/tabbed-panels-screenshot.png",
+			"description": "A declarative tabbed panels JS module",
+			"github": "Daniel-Hug/tabbed-panels"
+		},
+		{
 			"name": "togglr",
 			"author": "stefanoio",
 			"url": "https://github.com/stefanoio/togglr",
