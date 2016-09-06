@@ -32,6 +32,13 @@
 			"github": "enyo/dropzone"
 		},
 		{
+			"name": "Fotorama",
+			"author": "artpolikarpov",
+			"url": "http://fotorama.io",
+			"description": "A simple, stunning, powerful jQuery gallery.",
+			"github": "artpolikarpov/fotorama"
+		},
+		{
 			"name": "Flickity",
 			"author": "metafizzy",
 			"url": "http://flickity.metafizzy.co",
@@ -107,13 +114,6 @@
 			"url": "https://github.com/stefanoio/togglr",
 			"description": "Add/remove/toggle classes on specific targets on user input (click).",
 			"github": "stefanoio/togglr"
-		},
-		{
-			"name": "fotorama",
-			"author": "artpolikarpov",
-			"url": "http://fotorama.io",
-			"description": "A simple, stunning, powerful jQuery gallery.",
-			"github": "artpolikarpov/fotorama"
 		}
 	]
 }
