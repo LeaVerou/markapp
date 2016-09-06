@@ -32,7 +32,6 @@
 			"github": "enyo/dropzone"
 		},
 		{
-<<<<<<< HEAD
 			"name": "Fotorama",
 			"author": "artpolikarpov",
 			"url": "http://fotorama.io",
@@ -40,14 +39,12 @@
 			"github": "artpolikarpov/fotorama"
         },
         {
-=======
 			"name": "eqcss",
 			"author": "Tommy Hodgins & Maxime Euziere",
 			"url": "http://elementqueries.com",
 			"image": "https://raw.githubusercontent.com/eqcss/eqcss/gh-pages/eqcss-logo.png",
 			"description": "A CSS extension for element queries, scoped styles, & special selectors like $parent and $this",
 			"github": "eqcss/eqcss"
->>>>>>> LeaVerou/master
 		},
 		{
 			"name": "Flickity",
