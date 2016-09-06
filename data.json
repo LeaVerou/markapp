@@ -56,6 +56,13 @@
 			"github": "LeadDyno/intercooler-js"
 		},
 		{
+			"name": "Numeric input",
+			"author": "filamentgroup",
+			"url": "https://github.com/filamentgroup/formcore",
+			"description": "A number of features around normalizing the behavior of <input type=\"number\"> form fields.",
+			"github": "filamentgroup/formcore"
+	        },
+		{
 			"name": "Packery",
 			"author": "metafizzy",
 			"url": "http://packery.metafizzy.co",
