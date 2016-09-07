@@ -31,7 +31,7 @@
 			"description": "An open source library that provides drag’n’drop file uploads with image previews.",
 			"github": "enyo/dropzone"
 		},
-        {
+		{
 			"name": "eqcss",
 			"author": "Tommy Hodgins & Maxime Euziere",
 			"url": "http://elementqueries.com",
