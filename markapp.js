@@ -4,7 +4,17 @@ $.fetch("data.json", {
 .then(function(xhr) {
 	var json = xhr.response;
 	var template = $("template");
+	var templateContent;
 
-	template.insertAdjacentHTML("beforebegin", Mustache.render(template.innerHTML, json));
+	if ('content' in template) {
+		var div = document.createElement('div');
+		var clonedNode = template.content.cloneNode(true);
+		div.appendChild(clonedNode);
+		templateContent = div.innerHTML
+	} else {
+		templateContent = template.innerHTML;
+	}
+
+	template.insertAdjacentHTML("beforebegin", Mustache.render(templateContent, json));
 	template.remove();
 });
