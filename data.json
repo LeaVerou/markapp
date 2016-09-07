@@ -87,6 +87,13 @@
 			"github": "prismjs/prism"
 		},
 		{
+			"name": "QuestionMark.js",
+			"author": "impressivewebs",
+			"url": "http://impressivewebs.github.io/QuestionMark.js/",
+			"description": "A keyboard shortcuts modal window plugin for your app.",
+			"github": "impressivewebs/QuestionMark.js"
+		},
+		{
 			"name": "Shower",
 			"author": "pepelsbey",
 			"url": "https://shwr.me",
