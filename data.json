@@ -32,12 +32,27 @@
 			"github": "enyo/dropzone"
 		},
 		{
+			"name": "eqcss",
+			"author": "Tommy Hodgins & Maxime Euziere",
+			"url": "http://elementqueries.com",
+			"image": "https://raw.githubusercontent.com/eqcss/eqcss/gh-pages/eqcss-logo.png",
+			"description": "A CSS extension for element queries, scoped styles, & special selectors like $parent and $this",
+			"github": "eqcss/eqcss"
+		},
+		{
 			"name": "Flickity",
 			"author": "metafizzy",
 			"url": "http://flickity.metafizzy.co",
 			"image": "https://cdn.css-tricks.com/wp-content/uploads/2015/03/flickity.gif",
 			"description": "Touch, responsive, flickable carousels",
 			"github": "metafizzy/flickity"
+		},
+		{
+			"name": "Fotorama",
+			"author": "artpolikarpov",
+			"url": "http://fotorama.io",
+			"description": "A simple, stunning, powerful jQuery gallery.",
+			"github": "artpolikarpov/fotorama"
 		},
 		{
 			"name": "Gridnav",
@@ -100,6 +115,14 @@
 			"image": "http://lea.verou.me/wp-content/uploads/2015/07/Screen-Shot-2015-07-25-at-18.40.13--300x204.png",
 			"description": "Form element autosizing, the way it should be.",
 			"github": "leaverou/stretchy"
+		},
+		{
+			"name": "tabbed-panels",
+			"author": "Daniel-Hug",
+			"url": "https://github.com/Daniel-Hug/tabbed-panels#tabbed-panels-demo",
+			"image": "http://daniel-hug.github.io/tabbed-panels/tabbed-panels-screenshot.png",
+			"description": "A declarative tabbed panels JS module",
+			"github": "Daniel-Hug/tabbed-panels"
 		},
 		{
 			"name": "togglr",
