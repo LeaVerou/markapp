@@ -47,13 +47,13 @@
 			"description": "Touch, responsive, flickable carousels",
 			"github": "metafizzy/flickity"
 		},
-      	{
+		{
 			"name": "Fotorama",
 			"author": "artpolikarpov",
 			"url": "http://fotorama.io",
 			"description": "A simple, stunning, powerful jQuery gallery.",
 			"github": "artpolikarpov/fotorama"
-        },
+		},
 		{
 			"name": "Gridnav",
 			"author": "Christian Heilmann",
