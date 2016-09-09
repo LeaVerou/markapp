@@ -1,11 +1,43 @@
 {
 	"library": [
 		{
+			"name": "AMP",
+			"author": "ampproject",
+			"url": "https://ampproject.org",
+			"image": "https://www.ampproject.org/static/img/logo-blue.svg",
+			"description": "Fast and responsive custom elements as part of a larger spec to build content pages easily.",
+			"github": "ampproject/amphtml"
+		},
+		{
 			"name": "Awesomplete",
 			"author": "leaverou",
 			"url": "http://leaverou.github.io/awesomplete",
 			"description": "Simple, flexible autocomplete widget",
 			"github": "leaverou/awesomplete"
+		},
+		{
+			"name": "Bootstrap",
+			"author": "Twitter",
+			"image": "https://pbs.twimg.com/profile_images/378800000195279414/f8404a9d719c7ffce1478ba1a50036f9.png",
+			"url": "https://getbootstrap.com/",
+			"description": "Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.",
+			"github": "twbs/bootstrap"
+		},
+		{
+			"name": "Dropzone",
+			"author": "enyo",
+			"url": "http://www.dropzonejs.com",
+			"image": "http://www.dropzonejs.com/favicons/favicon-192x192.png",
+			"description": "An open source library that provides drag’n’drop file uploads with image previews.",
+			"github": "enyo/dropzone"
+		},
+		{
+			"name": "eqcss",
+			"author": "Tommy Hodgins & Maxime Euziere",
+			"url": "http://elementqueries.com",
+			"image": "https://raw.githubusercontent.com/eqcss/eqcss/gh-pages/eqcss-logo.png",
+			"description": "A CSS extension for element queries, scoped styles, & special selectors like $parent and $this",
+			"github": "eqcss/eqcss"
 		},
 		{
 			"name": "Flickity",
@@ -14,6 +46,29 @@
 			"image": "https://cdn.css-tricks.com/wp-content/uploads/2015/03/flickity.gif",
 			"description": "Touch, responsive, flickable carousels",
 			"github": "metafizzy/flickity"
+		},
+		{
+			"name": "Fotorama",
+			"author": "artpolikarpov",
+			"url": "http://fotorama.io",
+			"description": "A simple, stunning, powerful jQuery gallery.",
+			"github": "artpolikarpov/fotorama"
+		},
+		{
+			"name": "Gridnav",
+			"author": "Christian Heilmann",
+			"url": "https://github.com/codepo8/gridnav/",
+			"image": "https://github.com/codepo8/gridnav/raw/master/images/grid.gif",
+			"description": "Navigating a list in a 2D manner instead of just forward and backward.",
+			"github": "codepo8/gridnav"
+		},
+		{
+			"name": "Intercooler",
+			"author": "LeadDyno",
+			"url": "http://intercoolerjs.org/",
+			"image": "https://raw.githubusercontent.com/LeadDyno/intercooler-js/master/www/images/Intercooler_CMYK.png",
+			"description": "AJAX With Attributes: There is no need to be complex",
+			"github": "LeadDyno/intercooler-js"
 		},
 		{
 			"name": "Packery",
@@ -39,6 +94,13 @@
 			"github": "prismjs/prism"
 		},
 		{
+			"name": "QuestionMark.js",
+			"author": "impressivewebs",
+			"url": "http://impressivewebs.github.io/QuestionMark.js/",
+			"description": "A keyboard shortcuts modal window plugin for your app.",
+			"github": "impressivewebs/QuestionMark.js"
+		},
+		{
 			"name": "Shower",
 			"author": "pepelsbey",
 			"url": "https://shwr.me",
@@ -60,6 +122,21 @@
 			"image": "http://lea.verou.me/wp-content/uploads/2015/07/Screen-Shot-2015-07-25-at-18.40.13--300x204.png",
 			"description": "Form element autosizing, the way it should be.",
 			"github": "leaverou/stretchy"
+		},
+		{
+			"name": "tabbed-panels",
+			"author": "Daniel-Hug",
+			"url": "https://github.com/Daniel-Hug/tabbed-panels#tabbed-panels-demo",
+			"image": "http://daniel-hug.github.io/tabbed-panels/tabbed-panels-screenshot.png",
+			"description": "A declarative tabbed panels JS module",
+			"github": "Daniel-Hug/tabbed-panels"
+		},
+		{
+			"name": "togglr",
+			"author": "stefanoio",
+			"url": "https://github.com/stefanoio/togglr",
+			"description": "Add/remove/toggle classes on specific targets on user input (click).",
+			"github": "stefanoio/togglr"
 		},
 		{
 			"name": "Vista",
