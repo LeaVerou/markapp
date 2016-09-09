@@ -137,6 +137,13 @@
 			"url": "https://github.com/stefanoio/togglr",
 			"description": "Add/remove/toggle classes on specific targets on user input (click).",
 			"github": "stefanoio/togglr"
+		},
+		{
+			"name": "Vista",
+			"author": "esha",
+			"url": "https://github.com/esha/vista",
+			"description": "Declarative, CSS-driven, location-based control of element visibility (aka HTML routing)",
+			"github": "esha/vista"
 		}
 	]
 }
