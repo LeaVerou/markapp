@@ -137,6 +137,13 @@
 			"url": "https://github.com/stefanoio/togglr",
 			"description": "Add/remove/toggle classes on specific targets on user input (click).",
 			"github": "stefanoio/togglr"
+		},
+		{
+			"name": "Simple and Accessible Modal",
+			"author": "nico3333fr",
+			"url": "http://a11y.nicolas-hoffmann.net/modal/",
+			"description": "This jQuery plugin will add a shiny and accessible modal window, using ARIA.",
+			"github": "nico3333fr/jquery-accessible-modal-window-aria"
 		}
 	]
 }
