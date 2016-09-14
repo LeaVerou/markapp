@@ -151,6 +151,13 @@
 			"url": "http://thednp.github.io/kute.js",
 			"description": "KUTE.js is a Javascript animation engine with badass performance, SVG support and CSS3 stuff.",
 			"github": "thednp/kute.js"
-		}		
+		}
+		{
+			"name": "Native Javascript for Bootstrap",
+			"author": "thednp",
+			"url": "http://thednp.github.io/bootstrap.native",
+			"description": "If you are looking for Bootstrap without jQuery, this is the place to get started.",
+			"github": "thednp/bootstrap.native"
+		}
 	]
 }
