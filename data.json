@@ -145,5 +145,12 @@
 			"description": "Declarative, CSS-driven, location-based control of element visibility (aka HTML routing)",
 			"github": "esha/vista"
 		}
+		{
+			"name": "KUTE.js",
+			"author": "thednp",
+			"url": "http://thednp.github.io/kute.js",
+			"description": "KUTE.js is a Javascript animation engine with badass performance, SVG support and CSS3 stuff.",
+			"github": "thednp/kute.js"
+		}		
 	]
 }
