@@ -71,6 +71,22 @@
 			"github": "LeadDyno/intercooler-js"
 		},
 		{
+			"name": "Isotope",
+			"author": "metafizzy",
+			"url": "http://isotope.metafizzy.co",
+			"image": "http://i.imgur.com/xfGupRf.png",
+			"description": "Filter and sort magical layouts",
+			"github": "metafizzy/isotope"
+		},
+		{
+			"name": "Masonry",
+			"author": "desandro",
+			"url": "http://masonry.desandro.com",
+			"image": "http://i.imgur.com/HDSAMFl.jpg",
+			"description": "Cascading grid layouts",
+			"github": "desandro/masonry"
+		},
+		{
 			"name": "Packery",
 			"author": "metafizzy",
 			"url": "http://packery.metafizzy.co",
