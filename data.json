@@ -160,6 +160,13 @@
 			"url": "https://github.com/esha/vista",
 			"description": "Declarative, CSS-driven, location-based control of element visibility (aka HTML routing)",
 			"github": "esha/vista"
+		},
+		{
+			"name": "Granim.js",
+			"author": "@Sarcadass",
+			"url": "https://sarcadass.github.io/granim.js/",
+			"description": "Create fluid and interactive gradients animations with this small (< 10kB) .js library",
+			"github": "https://github.com/sarcadass/granim.js"
 		}
 	]
 }
