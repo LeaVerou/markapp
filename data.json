@@ -71,19 +71,19 @@
 			"github": "LeadDyno/intercooler-js"
 		},
 		{
-			"name": "lazysizes",
-			"author": "Alexander Farkas",
-			"url": "https://afarkas.github.io/lazysizes/",
-			"description": "Lazyload for responsive images.",
-			"github": "aFarkas/lazysizes"
-		},
-		{
 			"name": "Isotope",
 			"author": "metafizzy",
 			"url": "http://isotope.metafizzy.co",
 			"image": "http://i.imgur.com/xfGupRf.png",
 			"description": "Filter and sort magical layouts",
 			"github": "metafizzy/isotope"
+		},
+		{
+			"name": "lazysizes",
+			"author": "Alexander Farkas",
+			"url": "https://afarkas.github.io/lazysizes/",
+			"description": "Lazyload for responsive images.",
+			"github": "aFarkas/lazysizes"
 		},
 		{
 			"name": "Masonry",
