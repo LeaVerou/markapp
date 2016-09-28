@@ -79,6 +79,13 @@
 			"github": "metafizzy/isotope"
 		},
 		{
+			"name": "lazysizes",
+			"author": "Alexander Farkas",
+			"url": "https://afarkas.github.io/lazysizes/",
+			"description": "Lazyload for responsive images.",
+			"github": "aFarkas/lazysizes"
+		},
+		{
 			"name": "Masonry",
 			"author": "desandro",
 			"url": "http://masonry.desandro.com",
