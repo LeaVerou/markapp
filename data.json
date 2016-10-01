@@ -132,6 +132,13 @@
 			"github": "shower/shower"
 		},
 		{
+			"name": "Simple RSS",
+			"author": "Nick Moreton",
+			"url": "https://github.com/55sketch/simple-rss",
+			"description": "Vanilla JS RSS embed plugin",
+			"github": "55sketch/simple-rss"
+		},
+		{
 			"name": "Sorttable",
 			"author": "stuartlangridge",
 			"url": "http://www.kryogenix.org/code/browser/sorttable",
