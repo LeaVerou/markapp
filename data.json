@@ -135,7 +135,7 @@
 			"name": "Simple RSS",
 			"author": "Nick Moreton",
 			"url": "https://github.com/55sketch/simple-rss",
-			"description": "Vanilla JS RSS embed plugin",
+			"description": "This plugin allows you to embed content from an RSS feed on to your website using only data attributes directly in the HTML.",
 			"github": "55sketch/simple-rss"
 		},
 		{
