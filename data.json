@@ -174,6 +174,13 @@
 			"url": "https://github.com/esha/vista",
 			"description": "Declarative, CSS-driven, location-based control of element visibility (aka HTML routing)",
 			"github": "esha/vista"
+		},
+		{
+			"name": "simpleJsCopy",
+			"author": "ryanpcmcquen",
+			"url": "https://github.com/ryanpcmcquen/simpleJsCopy",
+			"description": "A super small (~1kB) JS library for copying to the clipboard or selecting text and prompting the user.",
+			"github": "ryanpcmcquen/simpleJsCopy"
 		}
 	]
 }
