@@ -63,6 +63,13 @@
 			"github": "artpolikarpov/fotorama"
 		},
 		{
+			"name": "GitHub Profile Card",
+			"author": "Piotr Lewandowski",
+			"url": "https://piotrl.github.io/github-profile-card/",
+			"description": "Widget for presenting your GitHub profile on your website. Pure JavaScript.",
+			"github": "piotrl/github-profile-card"
+		},
+		{
 			"name": "Gridnav",
 			"author": "Christian Heilmann",
 			"url": "https://github.com/codepo8/gridnav/",
