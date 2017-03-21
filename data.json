@@ -94,6 +94,13 @@
 			"github": "metafizzy/isotope"
 		},
 		{
+			"name": "Kerning.js",
+			"author": "Joshua Gross",
+			"url": "http://endtwist.github.io/kerning.js/",
+			"description": "Kern, style, transform, and scale your web type with real CSS rules, automatically.",
+			"github": "endtwist/kerning.js"
+		},
+		{
 			"name": "lazysizes",
 			"author": "Alexander Farkas",
 			"url": "https://afarkas.github.io/lazysizes/",
