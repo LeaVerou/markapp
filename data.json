@@ -206,6 +206,14 @@
 			"github": "stefanoio/togglr"
 		},
 		{
+			"name": "Van11y Modal",
+			"author": "nico3333fr",
+			"url": "https://van11y.net/accessible-modal/",
+			"image": "https://van11y.net/layout/images/logo-van11y.svg",
+			"description": "This script will provide you an accessible modal window using ARIA.",
+			"github": "nico3333fr/van11y-accessible-modal-window-aria"
+		},
+		{
 			"name": "Vista",
 			"author": "esha",
 			"url": "https://github.com/esha/vista",
