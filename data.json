@@ -123,6 +123,14 @@
 			"github": "desandro/masonry"
 		},
 		{
+			"name": "Mavo",
+			"author": "Lea Verou",
+			"url": "https://mavo.io/",
+			"image": "https://mavo.io/logo.svg",
+			"description": "Extends the syntax of HTML to describe Web applications that manage, store, and transform data.",
+			"github": "mavoweb/mavo"
+		},
+		{
 			"name": "Packery",
 			"author": "metafizzy",
 			"url": "http://packery.metafizzy.co",
