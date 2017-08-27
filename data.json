@@ -8,6 +8,20 @@
 			"description": "Fast and responsive custom elements as part of a larger spec to build content pages easily.",
 			"github": "ampproject/amphtml"
 		},
+    {
+      "name": "AniJS",
+      "author": "dariel_oneil",
+      "url": "http://anijs.github.io",
+      "description": "A Library to Raise your Web Design without Coding",
+      "github": "anijs/anijs"
+    },
+		{
+		  "name": "AniJS",
+		  "author": "dariel_oneil",
+		  "url": "http://anijs.github.io",
+		  "description": "A Library to Raise your Web Design without Coding",
+		  "github": "anijs/anijs"
+		},
 		{
 		  "name": "AniJS",
 		  "author": "dariel_oneil",
@@ -116,6 +130,14 @@
 			"github": "desandro/masonry"
 		},
 		{
+			"name": "Mavo",
+			"author": "Lea Verou",
+			"url": "https://mavo.io/",
+			"image": "https://mavo.io/logo.svg",
+			"description": "Extends the syntax of HTML to describe Web applications that manage, store, and transform data.",
+			"github": "mavoweb/mavo"
+		},
+		{
 			"name": "Packery",
 			"author": "metafizzy",
 			"url": "http://packery.metafizzy.co",
@@ -189,6 +211,14 @@
 			"url": "https://github.com/stefanoio/togglr",
 			"description": "Add/remove/toggle classes on specific targets on user input (click).",
 			"github": "stefanoio/togglr"
+		},
+		{
+			"name": "Van11y Modal",
+			"author": "nico3333fr",
+			"url": "https://van11y.net/accessible-modal/",
+			"image": "https://van11y.net/layout/images/logo-van11y.svg",
+			"description": "This script will provide you an accessible modal window using ARIA.",
+			"github": "nico3333fr/van11y-accessible-modal-window-aria"
 		},
 		{
 			"name": "Vista",
