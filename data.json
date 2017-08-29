@@ -30,6 +30,13 @@
 			"github": "leaverou/awesomplete"
 		},
 		{
+			"name": "Annyang",
+			"author": "TalAter",
+			"url": "https://www.talater.com/annyang/",
+			"description": "annyang is a tiny javascript library that lets your visitors control your site with voice commands. annyang supports multiple languages, has no dependencies, weighs just 2kb and is free to use."
+			"github": "TalAter/annyang"
+		}
+		{
 			"name": "Bootstrap",
 			"author": "Twitter",
 			"image": "https://getbootstrap.com/assets/brand/bootstrap-solid.svg",
