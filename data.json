@@ -16,13 +16,6 @@
 		  "github": "anijs/anijs"
 		},
 		{
-		  "name": "AniJS",
-		  "author": "dariel_oneil",
-		  "url": "http://anijs.github.io",
-		  "description": "A Library to Raise your Web Design without Coding",
-		  "github": "anijs/anijs"
-		},
-		{
 			"name": "Awesomplete",
 			"author": "leaverou",
 			"url": "http://leaverou.github.io/awesomplete",
