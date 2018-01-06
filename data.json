@@ -116,6 +116,14 @@
 			"github": "desandro/masonry"
 		},
 		{
+			"name": "nanogallery2",
+			"author": "christophe brisbois",
+			"url": "http://nanogallery2.nanostudio.org",
+			"image": "http://i.imgur.com/bMWtAF9.png",
+			"description": "javascript library for building beautiful image galleries",
+			"github": "nanostudio-org/nanogallery2"
+    	},
+		{
 			"name": "Mavo",
 			"author": "Lea Verou",
 			"url": "https://mavo.io/",
