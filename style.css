@@ -4,9 +4,18 @@
 	clip-path: var(--clip-path);
 }
 
+html, body {
+	height: 100%;
+}
+
 body {
 	margin: 0;
 	font: 100%/1.5 Helvetica Neue, sans-serif;
+}
+
+.wrapper {
+  min-height: 100%;
+  margin-bottom: -35px; 
 }
 
 a {
@@ -45,13 +54,13 @@ header {
 		font-weight: 200;
 	}
 
-body > section {
+section {
 	max-width: 50em;
 	padding: 0 1em;
 	margin: auto;
 }
 
-	body > section > h1 {
+	section > h1 {
 		text-align: center;
 		color: rgba(0,0,0,.5);
 		margin-bottom: .5em;
@@ -60,9 +69,13 @@ body > section {
 body > footer {
 	background: hsl(217, 10%, 30%);
 	padding: 2em calc(50% - 25em) 1em;
-	margin-top: 2em;
 	color: white;
 	--clip-path: polygon(0% 1em, 100% 0, 100% 100%, 0% 100%);
+}
+
+footer,
+.push {
+	height: 35px; 
 }
 
 #intro > p:first-of-type {
@@ -137,6 +150,6 @@ article:target {
 		opacity: .95;
 	}
 
-#libraries footer {
+#libraries p {
 	text-align: center;
 }
