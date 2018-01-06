@@ -176,6 +176,13 @@
 			"github": "stuartlangridge/sorttable"
 		},
 		{
+			"name": "speech-input",
+			"author": "Daniel-Hug",
+			"url": "https://github.com/Daniel-Hug/speech-input",
+			"description": "Simple speech input for <input> elements — replaces deprecated x-webkit-speech attribute",
+			"github": "Daniel-Hug/speech-input"
+		},
+		{
 			"name": "Stretchy",
 			"author": "leaverou",
 			"url": "https://leaverou.github.io/stretchy",
