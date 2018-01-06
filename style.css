@@ -141,3 +141,20 @@ article:target {
 	width: 100%;
 	font-size: 150%;
 }
+
+.github-button {
+	display: inline-block;
+	padding: 0 10px;
+	font-size: 12px;
+	line-height: 26px;
+	font-weight: 600;
+	vertical-align: top;
+	cursor: pointer;
+	border: 1px solid #d1d2d3;
+	border-radius: 0.25em;
+	mix-blend-mode: luminosity;
+	background-color: #eff3f6;
+	background-image: linear-gradient(to bottom, #fafbfc, #e4ebf0);
+	background-repeat: repeat-x;
+	background-size: 110% 110%;
+}
