@@ -70,10 +70,6 @@ body > footer {
 	font-size: 140%;
 }
 
-#libraries > a {
-	text-decoration: none;
-}
-
 article {
 	background: hsl(217, 47%, 90%);
 	padding: 1em;
@@ -139,4 +135,9 @@ article:target {
 
 #libraries footer {
 	text-align: center;
+}
+
+.mv-add-library {
+	width: 100%;
+	font-size: 150%;
 }

@@ -9,6 +9,7 @@
 <meta name="viewport" content="width=device-width">
 <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32">
 <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16">
+<link rel="stylesheet" href="https://get.mavo.io/mavo.css">
 </head>
 <body>
 
@@ -25,42 +26,41 @@
 	The goal of this site is to collect and promote JS libraries that can be used without writing any JS.</p>
 </section>
 
-<section id="libraries">
-	<template>
-		<h1>{{library.length}} libraries so far:</h1>
+<section mv-app id="libraries" mv-bar="no-login" mv-storage="https://github.com/leaverou/markapp/data.json">
+	<h1>[count(library)] libraries so far:</h1>
 
-		{{#library}}
-		<a href="{{url}}">
-		<article id="lib-{{name}}">
-			<img src="{{image}}" alt="">
-			<h1>{{name}}
-				<div class="author">
-					<a href="http://github.com/{{author}}">{{author}}</a>
-					and
-					<a href="https://github.com/{{github}}/graphs/contributors">contributors</a>
-				</div>
-			</h1>
-			<p>{{description}}</p>
-
-			<a href="http://github.com/{{github}}" class="gitub-repo">{{github}}</a>
-			<a class="github-button" href="https://github.com/{{github}}"
-				data-icon="octicon-star" data-style="mega"
-				data-count-href="/leaverou/awesomplete/stargazers"
-				data-count-api="/repos/{{github}}#stargazers_count"
-				data-count-aria-label="# stargazers on GitHub"
-				aria-label="Star {{github}} on GitHub">Star</a>
-			<a class="github-button" href="https://github.com/{{github}}/fork"
-				data-icon="octicon-repo-forked" data-style="mega"
-				data-count-href="/leaverou/awesomplete/network"
-				data-count-api="/repos/{{github}}#forks_count"
-				data-count-aria-label="# forks on GitHub"
-				aria-label="Fork {{github}} on GitHub">Fork</a>
-		</article>
+	<article property="library" mv-multiple id="lib-[name]">
+		<a href="[url]">
+			<img property="image" alt="" />
 		</a>
-		{{/library}}
-	</template>
+		<h1>
+			<a property="url"><span property="name"></span></a>
+			<div class="author">
+				<a href="http://github.com/[author]" property="author" mv-attribute="none"></a>
+				and
+				<a href="https://github.com/[github]/graphs/contributors">contributors</a>
+			</div>
+		</h1>
+
+		<p property="description"></p>
+
+		<a property="github" href="http://github.com/[github]" class="gitub-repo" mv-attribute="none"></a>
+
+		<a class="github-button" href="https://github.com/[github]"
+		   data-icon="octicon-star"
+		   data-size="large"
+		   data-show-count="true"
+		   aria-label="Star [github] on GitHub">Star</a>
+
+		<a class="github-button" href="https://github.com/[github]/fork"
+		   data-icon="octicon-repo-forked"
+		   data-size="large"
+		   data-show-count="true"
+		   aria-label="Fork leaverou/markapp on GitHub">Fork</a>
+	</article>
+
 	<footer>
-		<p><a href="https://github.com/LeaVerou/markapp/edit/master/data.json">Help expand this list!</a></p>
+		<p><a href="?login" class="mv-login">Help expand this list!</a></p>
 	</footer>
 </section>
 
@@ -70,10 +70,8 @@
 	&bull; <a href="https://www.flickr.com/photos/flikr/2642252679">Laser cat photo by Kelbv</a>
 </footer>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/blissfuljs/1.0.2/bliss.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/2.2.1/mustache.min.js"></script>
+<script src="https://get.mavo.io/mavo.min.js"></script>
 <script src="markapp.js"></script>
-<script async defer src="https://buttons.github.io/buttons.js"></script>
 
 </body>
 </html>

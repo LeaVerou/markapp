@@ -1,3 +1,13 @@
+# To add a new library
+
+## Visually
+
+Just click the "Help expand this list!" link under the list and log in via Github.
+Then you can click Edit, add your library in the right place, save, then click "Send Edit Suggestion" to propose your changes.
+Libraries are ordered alphabetically.
+
+## Manually
+
 Please add new libraries by adding items to the "libraries" array in `data.json`.
 Please follow the existing formatting.
 All fields are mandatory except `"image"`.
@@ -9,4 +19,4 @@ Libraries are ordered alphabetically.
 2. Polyfills and prollyfills are excluded.
 3. Libraries that don't contain any JS are excluded. The focus of this project is to empower people to use HTML & CSS to do things they needed JS for. Not to teach them how to use HTML & CSS in clever ways.
 4. Must be open source with a liberal license (e.g. MIT)
-5. It must contain a reasonable amount of documentation and examples. Nobody knows how great your HTML API is if you haven't documented it anywhere and the people who need it won't read your JS to find out.
+5. It must contain a reasonable amount of documentation and examples that are friendly to novices. Nobody knows how great your HTML API is if you haven't documented it anywhere and the people who need it won't read your JS to find out.
