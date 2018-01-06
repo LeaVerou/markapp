@@ -177,6 +177,13 @@
 			"github": "55sketch/simple-rss"
 		},
 		{
+			"name": "SimplyEdit",
+			"author": "Yvo Brevoort",
+			"url": "https://simplyedit.io/",
+			"description": "A website editor and view system. Its like Wordpress running in your browser. No programming needed.",
+			"image": "https://simplyedit.io/img/se-edit-animation-3.gif"
+		},
+		{
 			"name": "Sorttable",
 			"author": "stuartlangridge",
 			"url": "http://www.kryogenix.org/code/browser/sorttable",
