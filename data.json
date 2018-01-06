@@ -9,11 +9,11 @@
 			"github": "ampproject/amphtml"
 		},
 		{
-		  "name": "AniJS",
-		  "author": "dariel_oneil",
-		  "url": "http://anijs.github.io",
-		  "description": "A Library to Raise your Web Design without Coding",
-		  "github": "anijs/anijs"
+			"name": "AniJS",
+			"author": "dariel_oneil",
+			"url": "http://anijs.github.io",
+			"description": "A Library to Raise your Web Design without Coding",
+			"github": "anijs/anijs"
 		},
 		{
 			"name": "Awesomplete",
@@ -122,12 +122,12 @@
 			"image": "http://i.imgur.com/bMWtAF9.png",
 			"description": "javascript library for building beautiful image galleries",
 			"github": "nanostudio-org/nanogallery2"
-    	},
+		},
 		{
 			"name": "Mavo",
 			"author": "Lea Verou",
 			"url": "https://mavo.io/",
-			"image": "https://mavo.io/logo.svg",
+			"image": "https://mavo.io/mavatar.png",
 			"description": "Extends the syntax of HTML to describe Web applications that manage, store, and transform data.",
 			"github": "mavoweb/mavo"
 		},
