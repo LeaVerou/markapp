@@ -88,7 +88,7 @@ article:target {
 	article img {
 		width: 8.5em;
 		height: 8.5em;
-		object-fit: cover;
+		object-fit: contain;
 		float: right;
 		margin-left: .5em;
 		border-radius: .3em;
