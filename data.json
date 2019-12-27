@@ -101,6 +101,14 @@
 			"github": "metafizzy/isotope"
 		},
 		{
+			"name": "John Dorian",
+			"author": "viki53",
+			"url": "https://john-dorian.github.io",
+			"image": "https://avatars2.githubusercontent.com/u/36155036?s=200&v=4",
+			"description": "The lightweight & easy to use JS framework controlled by HTML",
+			"github": "john-dorian"
+		},
+		{
 			"name": "lazysizes",
 			"author": "Alexander Farkas",
 			"url": "https://afarkas.github.io/lazysizes/",
