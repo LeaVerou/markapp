@@ -31,6 +31,13 @@
 			"github": "twbs/bootstrap"
 		},
 		{
+			"name": "Charts.css",
+			"author": "Rami Yushuvaev",
+			"url": "https://ChartsCSS.org/",
+			"description": "ChartsCSS is an open source CSS framework for data visualization.",
+			"github": "ChartsCSS/charts.css"
+		},
+		{
 			"name": "cheval",
 			"author": "ryanpcmcquen",
 			"image": "https://usercontent.irccloud-cdn.com/file/qNE1bC42/cheval.png",
